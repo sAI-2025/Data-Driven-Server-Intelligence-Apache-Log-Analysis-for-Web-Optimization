@@ -1,5 +1,4 @@
 
-
 # 📊 Data-Driven-Server-Intelligence: Apache Log Analysis for Web Optimization
 
 ## 🔍 Description
@@ -257,14 +256,13 @@ By integrating this pipeline into a CI/CD system or dashboard (e.g., Streamlit, 
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-**Name**: \[Sai Krishna Chaudhary Chundru]]
-**Email**: \[[sai@mai](mailto:cchsaikrishnachowdary@gmail.com)]
-**LinkedIn**: Sai(https://www.linkedin.com/in/sai-krishna-chowdary-chundru)
-**GitHub**: [Sai](https://github.com/sAI-2025)
+**Name**: Sai Krishna Chowdary Chundru  
+**Email**: [cchsaikrishnachowdary@gmail.com](mailto:cchsaikrishnachowdary@gmail.com)  
+**LinkedIn**: [Sai Krishna Chowdary Chundru](https://www.linkedin.com/in/sai-krishna-chowdary-chundru)  
+**GitHub**: [sAI-2025](https://github.com/sAI-2025)
 
 Feel free to reach out for collaboration, feedback, or implementation consulting!
 
----
-````
+
