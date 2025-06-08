@@ -1,0 +1,26 @@
+# Core Data Analysis Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Jupyter Notebook (optional but common for analysis)
+jupyter==1.0.0
+
+# Machine Learning (if needed)
+scikit-learn==1.4.2
+
+# Optional: Data cleaning and profiling
+openpyxl==3.1.2  # Excel file support
+missingno==0.5.2
+pandas-profiling==3.6.6
+
+# Optional: Interactive dashboards
+streamlit==1.35.0
+
+# Optional: Statistical analysis
+scipy==1.13.1
+statsmodels==0.14.1
