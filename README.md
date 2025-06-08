@@ -36,7 +36,7 @@ The analytics journey includes:
    ```bash
    git clone https://github.com/sAI-2025/Data-Driven-Server-Intelligence-Apache-Log-Analysis-for-Web-Optimization.git
    cd Data-Driven-Server-Intelligence-Apache-Log-Analysis-for-Web-Optimization
-````
+
 
 2. Create a virtual environment:
 
@@ -267,4 +267,4 @@ By integrating this pipeline into a CI/CD system or dashboard (e.g., Streamlit, 
 Feel free to reach out for collaboration, feedback, or implementation consulting!
 
 ---
-
+````
