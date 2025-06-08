@@ -16,7 +16,7 @@ The analytics journey includes:
 
 ## 📁 Project Structure
 
-```
+````
 
 .
 ├── data/
@@ -261,7 +261,7 @@ By integrating this pipeline into a CI/CD system or dashboard (e.g., Streamlit, 
 
 **Name**: \[Sai Krishna Chaudhary Chundru]]
 **Email**: \[[sai@mai](mailto:cchsaikrishnachowdary@gmail.com)]
-**LinkedIn**: Sai(https://linkedin.com/in/your-profile)
+**LinkedIn**: Sai(https://www.linkedin.com/in/sai-krishna-chowdary-chundru)
 **GitHub**: [Sai](https://github.com/sAI-2025)
 
 Feel free to reach out for collaboration, feedback, or implementation consulting!
